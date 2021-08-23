@@ -1,0 +1,9 @@
+Prayer function:
+    1. Check that prayer is on
+    2. Check prayer points
+    3. If prayer points < 40 , find potion
+    4. Locate potion by dosage: 1 > 2 > 3 > 4
+    5. Drink potion
+    6. Continue monitoring prayer point level
+
+    

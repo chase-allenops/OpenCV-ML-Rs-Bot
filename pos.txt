@@ -1,0 +1,72 @@
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639752.1899602.jpg 3 258 103 29 36 365 138 29 30 98 194 25 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639772.0393803.jpg 3 128 119 14 20 200 216 14 16 281 241 19 19
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639775.970706.jpg 3 201 78 14 22 284 213 17 21 339 240 15 21
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639776.9210591.jpg 6 60 77 21 20 27 121 20 18 366 212 19 23 422 239 23 21 382 143 24 20 281 74 19 22
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639777.9704149.jpg 5 140 80 21 23 113 127 19 19 448 165 24 27 448 215 28 21 361 77 19 28
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639778.9223518.jpg 3 214 136 22 23 214 210 23 19 446 133 22 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639779.956357.jpg 3 270 185 21 23 273 252 20 26 500 188 15 20
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639782.6595545.jpg 3 215 157 18 23 422 158 19 22 211 206 22 18
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639784.97228.jpg 6 226 122 21 20 300 123 23 19 357 165 18 24 305 240 26 21 375 317 29 25 22 118 23 26
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639793.4812288.jpg 3 173 123 21 25 302 211 22 20 377 343 25 24
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639795.8039007.jpg 3 123 144 28 16 213 238 29 28 314 348 23 18
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639797.0712392.jpg 5 31 128 27 18 130 212 24 25 194 319 23 26 435 245 28 25 447 298 37 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639798.1891272.jpg 4 49 149 25 25 97 244 27 25 342 181 21 23 347 227 27 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639799.488999.jpg 4 43 73 21 22 41 144 26 20 312 96 23 26 315 138 28 29
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639803.3898165.jpg 5 301 154 25 28 320 105 24 30 12 178 26 19 11 148 31 26 4 64 22 23
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639804.7381592.jpg 5 36 126 28 26 364 179 24 23 361 224 28 30 55 248 28 22 63 220 21 24
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639806.037324.jpg 5 71 62 31 28 168 143 28 23 481 170 27 30 471 218 32 32 177 239 20 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639807.1532938.jpg 2 150 110 21 29 267 184 29 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639808.5532966.jpg 2 189 164 26 29 330 231 28 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639813.737174.jpg 3 218 162 24 29 331 228 26 30 390 313 21 26
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639814.9721084.jpg 3 218 164 22 27 298 207 28 28 399 306 31 32
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639816.1891763.jpg 3 190 163 24 29 318 204 27 30 397 307 33 33
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639818.8721325.jpg 2 155 165 30 29 357 282 30 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639820.7052171.jpg 4 106 194 32 27 8 177 30 27 192 293 32 31 422 274 32 36
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639822.8043115.jpg 3 269 117 29 30 252 214 22 29 10 159 29 24
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639824.104481.jpg 2 195 147 26 27 195 100 28 26
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639869.458882.jpg 2 172 212 25 31 47 180 25 26
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639870.7689657.jpg 2 130 99 32 32 11 85 25 24
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639872.3369327.jpg 2 152 94 23 29 17 61 24 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639872.9532602.jpg 2 129 89 25 26 15 62 28 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639873.9370742.jpg 2 149 93 28 26 17 61 24 24
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639874.489735.jpg 2 134 90 28 30 15 59 30 29
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639878.2207642.jpg 1 87 238 28 32
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639879.5869.jpg 5 265 57 25 30 168 54 26 28 142 114 25 30 79 108 25 28 51 93 27 26
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639880.1372216.jpg 5 148 159 27 29 89 173 30 27 53 136 29 25 178 92 22 30 276 96 23 28
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639880.7591183.jpg 5 273 94 22 29 187 120 23 26 159 186 25 28 84 221 28 28 60 158 30 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639883.38444.jpg 5 194 154 23 26 204 122 23 32 287 104 29 24 79 218 31 31 58 150 28 21
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639884.0757377.jpg 5 126 142 29 26 138 211 25 30 246 161 18 26 253 136 19 25 338 113 23 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639885.0693476.jpg 5 332 135 24 28 413 131 23 31 186 170 24 25 319 190 24 28 220 229 27 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639885.869783.jpg 5 248 188 20 21 375 221 27 29 284 244 23 36 391 164 22 30 470 144 25 32
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629639886.7034686.jpg 1 276 169 28 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656381.3506637.jpg 3 145 178 30 28 185 262 32 31 420 178 24 28
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656386.245472.jpg 4 224 143 27 30 349 103 27 32 167 263 29 30 267 264 32 32
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656389.998335.jpg 4 190 179 31 35 209 68 25 29 303 256 21 29 267 297 29 33
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656393.695157.jpg 4 116 170 35 25 204 228 34 30 324 226 35 31 347 202 29 32
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656397.0465238.jpg 4 79 279 38 32 226 246 31 29 321 153 27 29 304 105 33 26
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656400.0132155.jpg 4 224 93 26 36 286 130 29 27 301 219 25 29 196 331 35 31
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656407.4780495.jpg 3 132 135 30 31 175 125 30 25 276 303 28 28
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656411.2303352.jpg 4 230 270 32 36 352 245 28 38 132 216 35 30 127 143 30 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656414.9811013.jpg 4 350 147 31 33 311 249 27 33 196 293 35 27 157 272 38 23
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656418.5623085.jpg 5 248 85 29 33 342 157 22 31 312 286 24 34 277 306 26 33 218 189 29 21
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656422.3125584.jpg 4 143 147 29 31 342 157 27 29 377 252 28 33 254 134 32 29
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656432.2811666.jpg 3 290 189 28 30 493 203 25 35 499 305 20 30
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656437.1054008.jpg 4 320 129 28 31 445 109 31 27 397 49 32 28 254 226 37 19
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656441.5961323.jpg 2 216 106 27 28 181 39 37 24
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656445.4462733.jpg 4 177 115 32 28 150 164 37 30 59 146 32 28 66 114 32 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656448.7295823.jpg 4 158 209 34 29 180 264 34 33 86 300 36 28 10 257 27 36
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656452.476767.jpg 2 235 277 28 31 283 237 33 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656456.1959841.jpg 4 314 200 25 32 326 269 31 24 437 160 34 37 492 247 26 42
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656460.1104805.jpg 4 255 117 28 25 333 53 29 25 448 65 19 17 379 158 32 23
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656491.1421885.jpg 2 175 238 27 20 332 167 19 20
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656495.5925393.jpg 3 186 141 26 21 36 142 33 21 286 237 23 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656498.793769.jpg 2 196 223 28 28 297 125 26 27
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656502.727169.jpg 4 164 170 30 26 339 168 29 25 439 120 21 31 385 234 24 29
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656506.3424993.jpg 4 231 118 27 25 314 228 27 28 276 319 28 30 375 334 29 35
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656509.9270296.jpg 4 172 198 28 28 208 247 32 27 338 176 20 22 83 291 34 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656518.5279605.jpg 3 105 184 29 27 159 133 28 22 313 102 23 25
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656523.4938707.jpg 4 300 76 27 31 345 130 23 31 360 209 27 28 349 260 31 33
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656526.7947304.jpg 5 392 197 30 29 338 274 31 27 247 294 35 36 155 294 30 32 254 223 29 20
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656529.7100556.jpg 4 140 219 28 20 129 193 30 21 206 304 32 29 289 333 34 29
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656533.140575.jpg 4 118 158 30 24 209 102 29 23 237 91 21 30 107 251 37 23
+C:/Users/chase/Desktop/Python/OpenCVBots/machine-learning/positive\1629656536.3270693.jpg 4 138 118 29 29 245 74 25 27 358 92 25 26 361 176 24 26

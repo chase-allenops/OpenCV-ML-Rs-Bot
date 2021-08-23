@@ -8,3 +8,11 @@ Program is able to detect Abyssal Demons using an ML model that was trained usin
 It can also detect prayer level using template matching, as well as locating and interacting with prayer potions using the same technique. 
 
 I do not condone the use of cheating software that may negatively impact other players or the game's integrity. 
+
+```
+   ________  _____   ________  __
+  / ____/ / / /   | / ____/ / / /
+ / /   / /_/ / /| |/ /   / /_/ / 
+/ /___/ __  / ___ / /___/ __  /  
+\____/_/ /_/_/  |_\____/_/ /_/   
+```
